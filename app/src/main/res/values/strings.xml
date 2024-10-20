@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bit Converter</string>
+    <string name="enter_bits">Entre com o valor em bits:</string>
+    <string name="bits_hint">Digite o valor em bits</string>
+    <string name="select_unit">Selecione a unidade de conversão:</string>
+    <string name="convert">Converter</string>
+    <string-array name="unit_options">
+        <item>Bytes</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+    </string-array>
+</resources>
